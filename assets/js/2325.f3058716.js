@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrat=globalThis.webpackChunkrat||[]).push([[2325],{2325:(a,e,c)=>{c.d(e,{createPacketServices:()=>r.$});var r=c(1477);c(7960)}}]);
