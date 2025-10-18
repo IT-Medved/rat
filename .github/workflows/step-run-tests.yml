@@ -97,7 +97,7 @@ jobs:
     - name: Загрузка расширения c rat
       uses: 1CDevFlow/workflows/actions/load-extension@main
       with:
-        name: rat
+        name: RAT
         path: binary/rat.cfe
 
     - name: Загрузка расширения c тестами
