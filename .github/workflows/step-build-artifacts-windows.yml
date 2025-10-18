@@ -64,7 +64,7 @@ jobs:
       run: ibcmd infobase config import --db-path=file-db --extension=tests export\tests
       timeout-minutes: 5
 
-    - name: Сохрание расширения RAT
+    - name: Сохрание расширения rat
       run: ibcmd infobase config save --db-path=file-db --extension=RAT binary\rat.cfe
       timeout-minutes: 5
       
