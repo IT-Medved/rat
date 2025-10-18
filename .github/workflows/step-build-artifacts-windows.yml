@@ -57,15 +57,15 @@ jobs:
       timeout-minutes: 5
 
     - name: Импорт rat из исходников
-      run: ibcmd infobase config import --db-path=file-db --extension=rat export\rat
+      run: ibcmd infobase config import --db-path=file-db --extension=RAT export\rat
       timeout-minutes: 5
 
     - name: Импорт тестов из исходников
       run: ibcmd infobase config import --db-path=file-db --extension=tests export\tests
       timeout-minutes: 5
 
-    - name: Сохрание расширения rat
-      run: ibcmd infobase config save --db-path=file-db --extension=rat binary\rat.cfe
+    - name: Сохрание расширения RAT
+      run: ibcmd infobase config save --db-path=file-db --extension=RAT binary\rat.cfe
       timeout-minutes: 5
       
     - name: Сохрание расширения с тестами
