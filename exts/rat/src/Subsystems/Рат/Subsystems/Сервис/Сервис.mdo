@@ -9,7 +9,7 @@
   <content>CommonModule.РатСервис</content>
   <content>CommonModule.РатСервисПереопределяемый</content>
   <content>CommonModule.РатШаблоныАдресов</content>
-  <content>HTTPService.RAT</content>
   <content>CommonTemplate.РатИнтерфейс</content>
+  <content>HTTPService.RAT</content>
   <parentSubsystem>Subsystem.Рат</parentSubsystem>
 </mdclass:Subsystem>

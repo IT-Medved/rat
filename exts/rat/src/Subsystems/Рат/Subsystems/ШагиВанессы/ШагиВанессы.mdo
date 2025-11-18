@@ -6,12 +6,12 @@
     <value>Шаги ванессы</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
-  <content>DataProcessor.РатШагиVA</content>
+  <content>CommonModule.РатВызовСервисаКлиент</content>
+  <content>CommonModule.РатКоннекторHTTP</content>
   <content>CommonModule.РатШагиВанессыВызовСервера</content>
   <content>CommonModule.РатШагиВанессыКлиент</content>
   <content>CommonModule.РатШагиВанессыКлиентСервер</content>
   <content>CommonModule.РатШагиВанессыСервер</content>
-  <content>CommonModule.РатВызовСервисаКлиент</content>
-  <content>CommonModule.РатКоннекторHTTP</content>
+  <content>DataProcessor.РатШагиVA</content>
   <parentSubsystem>Subsystem.Рат</parentSubsystem>
 </mdclass:Subsystem>

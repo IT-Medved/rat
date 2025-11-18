@@ -24,8 +24,6 @@
   <version>25.10</version>
   <subsystems>Subsystem.Рат</subsystems>
   <subsystems>Subsystem.РатАдаптацияФункциональности</subsystems>
-  <subsystems>Subsystem.РатОписаниеСервиса</subsystems>
-  <subsystems>Subsystem.РатПубличный</subsystems>
   <subsystems>Subsystem.РатРасширениеФункциональности</subsystems>
   <commonTemplates>CommonTemplate.РатИнтерфейс</commonTemplates>
   <commonTemplates>CommonTemplate.РатМетаданные</commonTemplates>

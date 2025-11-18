@@ -6,16 +6,15 @@
     <value>Взаимодействие с клиентом тестирования</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
-  <content>CommonModule.РатВзаимодействиеСКлиентомТестированияКлиентСервер</content>
   <content>CommonCommand.РатКомандныйИнтерфейсЗапросОтвет</content>
   <content>CommonModule.РатАнализТабличногоДокумента</content>
-  <content>CommonModule.РатВзаимодействиеСКлиентомТестированияВызовСервера</content>
-  <content>CommonModule.РатВзаимодействиеСКлиентомТестирования</content>
   <content>CommonModule.РатАнализТабличногоДокументаВызовКлиента</content>
   <content>CommonModule.РатАнализТабличногоДокументаВызовСервера</content>
+  <content>CommonModule.РатВзаимодействиеСКлиентомТестирования</content>
+  <content>CommonModule.РатВзаимодействиеСКлиентомТестированияВызовСервера</content>
   <content>CommonModule.РатВзаимодействиеСКлиентомТестированияКлиент</content>
-  <content>DataProcessor.РатГенераторСценариев</content>
-  <content>CommonModule.РатЭмуляцияДействийПользователяВызовКлиента</content>
+  <content>CommonModule.РатВзаимодействиеСКлиентомТестированияКлиентСервер</content>
   <content>CommonModule.РатЭмуляцияДействийПользователя</content>
+  <content>CommonModule.РатЭмуляцияДействийПользователяВызовКлиента</content>
   <parentSubsystem>Subsystem.Рат</parentSubsystem>
 </mdclass:Subsystem>

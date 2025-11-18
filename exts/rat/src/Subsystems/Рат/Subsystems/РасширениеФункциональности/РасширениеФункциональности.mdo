@@ -6,7 +6,6 @@
     <value>Расширение функциональности</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
-  <includeInCommandInterface>true</includeInCommandInterface>
   <content>CommonModule.РатРасширениеФункциональности</content>
   <content>CommonModule.РатРасширениеФункциональностиВызовСервера</content>
   <content>CommonModule.РатРасширениеФункциональностиКлиентСервер</content>

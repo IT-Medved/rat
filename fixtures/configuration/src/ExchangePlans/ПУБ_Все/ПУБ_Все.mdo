@@ -23,37 +23,37 @@
   <codeAllowedLength>Variable</codeAllowedLength>
   <descriptionLength>25</descriptionLength>
   <content>
-    <mdObject>InformationRegister.ПУБ_КомментарииПоОбъекту</mdObject>
-  </content>
-  <content>
-    <mdObject>ChartOfCharacteristicTypes.ПУБ_ПВХ</mdObject>
-  </content>
-  <content>
-    <mdObject>Catalog.ПУБ_Склады</mdObject>
-  </content>
-  <content>
     <mdObject>AccumulationRegister.ПУБ_ОстаткиТоваров</mdObject>
-  </content>
-  <content>
-    <mdObject>InformationRegister.ПУБ_ПримитивныеИзмерения</mdObject>
-  </content>
-  <content>
-    <mdObject>InformationRegister.ПУБ_ПериодическаяКонстанта</mdObject>
   </content>
   <content>
     <mdObject>Catalog.ПУБ_Номенклатура</mdObject>
   </content>
   <content>
-    <mdObject>Document.ПУБ_Чек</mdObject>
+    <mdObject>Catalog.ПУБ_ОбъектыМетаданных</mdObject>
   </content>
   <content>
-    <mdObject>InformationRegister.ПУБ_СтатусыОбъектов</mdObject>
+    <mdObject>Catalog.ПУБ_Склады</mdObject>
+  </content>
+  <content>
+    <mdObject>ChartOfCharacteristicTypes.ПУБ_ПВХ</mdObject>
+  </content>
+  <content>
+    <mdObject>Document.ПУБ_Чек</mdObject>
   </content>
   <content>
     <mdObject>InformationRegister.ПУБ_ИзмерениеСоставнойРеквизит</mdObject>
   </content>
   <content>
-    <mdObject>Catalog.ПУБ_ОбъектыМетаданных</mdObject>
+    <mdObject>InformationRegister.ПУБ_КомментарииПоОбъекту</mdObject>
+  </content>
+  <content>
+    <mdObject>InformationRegister.ПУБ_ПериодическаяКонстанта</mdObject>
+  </content>
+  <content>
+    <mdObject>InformationRegister.ПУБ_ПримитивныеИзмерения</mdObject>
+  </content>
+  <content>
+    <mdObject>InformationRegister.ПУБ_СтатусыОбъектов</mdObject>
   </content>
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>

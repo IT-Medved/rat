@@ -7,12 +7,12 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <content>CommonModule.РатВиртуальныеТаблицы</content>
+  <content>CommonModule.РатВыполнениеПроизвольныхЗапросов</content>
+  <content>CommonModule.РатДвижения</content>
   <content>CommonModule.РатИнформационнаяБазаСервис</content>
   <content>CommonModule.РатОбмены</content>
   <content>CommonModule.РатПользователиИнформационнойБазы</content>
   <content>CommonModule.РатРегламентныеЗадания</content>
-  <content>CommonModule.РатВыполнениеПроизвольныхЗапросов</content>
-  <content>CommonModule.РатДвижения</content>
   <content>CommonModule.РатТабличныеЧасти</content>
   <parentSubsystem>Subsystem.РатРасширениеФункциональности</parentSubsystem>
 </mdclass:Subsystem>
