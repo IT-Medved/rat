@@ -8,6 +8,7 @@
   <methodName>CommonModule.ПУБ_РегламентныеЗаданияСлужебный.Пауза</methodName>
   <description>Пауза</description>
   <key>Пауза</key>
+  <predefined>true</predefined>
   <restartCountOnFailure>3</restartCountOnFailure>
   <restartIntervalOnFailure>25</restartIntervalOnFailure>
 </mdclass:ScheduledJob>

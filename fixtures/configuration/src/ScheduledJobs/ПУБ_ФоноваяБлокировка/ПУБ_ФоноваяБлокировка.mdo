@@ -7,7 +7,6 @@
   </synonym>
   <methodName>CommonModule.ПУБ_РегламентныеЗаданияСлужебный.ФоноваяБлокировка</methodName>
   <description>ФоноваяБлокировка</description>
-  <use>true</use>
   <predefined>true</predefined>
   <restartCountOnFailure>3</restartCountOnFailure>
   <restartIntervalOnFailure>25</restartIntervalOnFailure>
