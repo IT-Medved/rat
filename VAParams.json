@@ -5,7 +5,7 @@
   "DisableLoadTestClientsTable": true,
   "ClearStepsCache": true,
 
-  "ИспользоватьКомпонентуVanessaExt": false,
+  "ИспользоватьКомпонентуVanessaExt": true,
 
   "МетаданныеБиблиотек": [
     "Обработка.РатШагиVA.Форма.Форма"
