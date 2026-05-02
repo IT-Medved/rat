@@ -35,6 +35,7 @@ Example:
 
 ```bash
 git switch develop
+git pull --ff-only
 git switch -c feat/20-fix-registry-picker
 ```
 
@@ -43,7 +44,8 @@ Before creating the branch:
 1. Run `git status --short --branch`.
 2. Ensure the working tree is clean or explicitly account for existing user changes.
 3. Switch to `develop`.
-4. Create the issue branch with the required issue id and slug.
+4. Run `git pull --ff-only` on `develop`; if it fails, stop and report the divergence.
+5. Create the issue branch with the required issue id and slug.
 
 ## Workflow
 
