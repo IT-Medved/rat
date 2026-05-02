@@ -21,7 +21,7 @@ Create every issue branch from `develop`, not from the current feature branch.
 Branch name format:
 
 ```text
-feat/issue-<id>-<slug>
+feat/<id>-<slug>
 ```
 
 Slug rules:
@@ -35,7 +35,7 @@ Example:
 
 ```bash
 git switch develop
-git switch -c feat/issue-20-fix-registry-picker
+git switch -c feat/20-fix-registry-picker
 ```
 
 Before creating the branch:
