@@ -19,3 +19,4 @@ node_modules
 mcp-server.*
 .codex/
 build/
+v8project.local.yaml
