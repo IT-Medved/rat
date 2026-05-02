@@ -1,6 +1,6 @@
 ---
 name: issue-workflow
-description: Work on a repository issue from branch creation through commit. Use when taking an issue into work, preparing an issue-scoped branch, or implementing an issue fix.
+description: Work on a repository issue from branch creation through commit and PR creation. Use when taking an issue into work, preparing an issue-scoped branch, implementing an issue fix, or publishing an issue PR.
 ---
 
 # Issue Workflow
@@ -73,3 +73,21 @@ fix: <short issue outcome>
 ```
 
 Use `feat:`, `fix:`, `docs:`, `test:`, or `chore:` according to the actual change.
+
+## Pull Request
+
+Create a pull request at the end of the task.
+
+PR title format:
+
+```text
+<issue-id> / <slug>
+```
+
+The PR title must start with the issue id, a slash separator, and the same slug used in the branch name.
+
+Write the PR description in Russian. Include the issue closing line:
+
+```text
+Close: #<issue-id>
+```
